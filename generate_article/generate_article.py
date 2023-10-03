@@ -1,4 +1,4 @@
 
 
 def generate_test_article():
-    return
+    return "print"
