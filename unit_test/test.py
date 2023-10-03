@@ -5,5 +5,6 @@ import unittest
 
 class TestScoreComparison(unittest.TestCase):
     def test_evaluate_response_criteria(self):
+        """test"""
         generate_test_article()
         self.assertEqual(True, True)
